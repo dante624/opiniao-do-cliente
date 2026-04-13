@@ -18,6 +18,6 @@ RUIM
 📢 Exibição dos resultados ao final
 
 🧠 Tecnologias utilizadas
-🐍 Python 3
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white) Python
 🔄 Estrutura de repetição (FOR)
 🔀 Estruturas condicionais (IF/ELIF)
